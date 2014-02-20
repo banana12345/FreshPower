@@ -1,2 +1,5 @@
 mcversion=1.7.2
-modversion-1.0
+modversion major=0
+modversion minor=1
+modversion build=0
+date=??????
